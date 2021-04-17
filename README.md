@@ -12,4 +12,4 @@ Add it to your PATH and just execute it in the folder where you want to download
 
 ## Upload
 
-```curl http://10.10.14.10:5000/ -F 'file=hash'```
+```curl http://10.10.14.10:5000/ -F 'file=@hash'```
