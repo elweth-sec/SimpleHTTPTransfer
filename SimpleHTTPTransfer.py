@@ -50,4 +50,4 @@ def download(filename):
 
 	return msg
 
-app.run()
+app.run(host="0.0.0.0")
